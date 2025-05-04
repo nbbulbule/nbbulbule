@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nagesh Bulbule 👋
 
-<!--
-**nbbulbulehotmail/nbbulbulehotmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 10+ years of experience in full-stack software development  
+🔧 Pro in .NET | C# | .NET Core 8 | Angular 17 | SQL Server  
+💻 Experienced with microservices, cloud-first architecture, and REST APIs  
+👨‍💻 Former Team Lead | Tech Mentor | Solution Designer  
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Backend: .NET Core, Web API, Entity Framework, Azure, REST
+- Frontend: Angular 17, HTML, SCSS, Bootstrap, RXJS
+- Database: SQL Server, LINQ, Stored Procedures
+- Tools: Git, Azure DevOps, Postman, Swagger, Visual Studio, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects & Contributions
+Check out my pinned repositories for projects related to:
+- Microservices Architecture
+- Real-world Angular + .NET apps
+- Database Design Patterns
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/nbbulbule)
+- 📧 nbbulbule@hotmail.com (change to real)
+- 🌍 Portfolio: [nbbulbulehotmail.github.io](https://nbbulbulehotmail.github.io) (coming soon)
+
+---
