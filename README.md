@@ -1,5 +1,7 @@
 # Hi, I'm Nagesh Bulbule 👋
 
+I am a passionate full-stack developer with expertise in technologies like .NET, Angular, and SQL Server. My focus is on building efficient, scalable, and user-friendly applications. This portfolio reflects my journey, technical skills, and selected works.
+
 🚀 10+ years of experience in full-stack software development  
 🔧 Pro in .NET | C# | .NET Core 8 | Angular 17 | SQL Server  
 💻 Experienced with microservices, cloud-first architecture, and REST APIs  
