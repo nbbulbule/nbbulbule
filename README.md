@@ -22,6 +22,6 @@ Check out my pinned repositories for projects related to:
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nbbulbule)
 - 📧 nbbulbule@hotmail.com (change to real)
-- 🌍 Portfolio: [nbbulbulehotmail.github.io](https://nbbulbulehotmail.github.io) (coming soon)
+- 🌍 Portfolio: [nbbulbule.github.io](https://nbbulbule.github.io) (coming soon)
 
 ---
