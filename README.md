@@ -20,7 +20,7 @@ Check out my pinned repositories for projects related to:
 - Database Design Patterns
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/nbbulbule)
+- 💼 [LinkedIn](https://in.linkedin.com/in/nageshbulbule)
 - 📧 nbbulbule@hotmail.com (change to real)
 - 🌍 Portfolio: [nbbulbule.github.io](https://nbbulbule.github.io) (coming soon)
 
